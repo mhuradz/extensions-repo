@@ -1,23 +1,5 @@
 [
   {
-    "name": "Tachiyomi: Asura Scans US (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.54.apk",
-    "lang": "en",
-    "code": 54,
-    "version": "1.4.54",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Asura Scans US (unoriginal)",
-        "lang": "en",
-        "id": "6247824327199706550",
-        "baseUrl": "https://asurascans.us",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
     "apk": "tachiyomi-all.mangafire-v1.4.17.apk",
@@ -55,7 +37,7 @@
   },
   {
     "name": "Tachiyomi: Vortex",
-    "pkg": "eu.kanade.tachiyomi.extension.en.vortex",
+    "pkg": "eu.kanade.tachiyomi.extension.radzdev.vortex",
     "apk": "tachiyomi-en.vortex-v1.1.apk",
     "lang": "en",
     "code": 1,
