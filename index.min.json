@@ -72,7 +72,7 @@
     ]
   },
   {
-    "name": "Huayomi: Xtencion",
+    "name": "Huayomi: Extencion",
     "pkg": "huayomi.xtencion.en.toonitube",
     "apk": "huayomi-en.toonitube-v1.4.20.apk",
     "lang": "en",
@@ -81,7 +81,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Xtencion",
+        "name": "Extencion",
         "lang": "en",
         "id": "7000000000000000002",
         "baseUrl": "https://toonitube.com",
