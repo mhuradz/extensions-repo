@@ -70,5 +70,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Xtencion: Xtencion",
+    "pkg": "huayomi.xtencion.en.toonitube",
+    "apk": "huayomi-en.toonitube-v1.4.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Xtencion",
+        "lang": "en",
+        "id": "7000000000000000002",
+        "baseUrl": "https://toonitube.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
