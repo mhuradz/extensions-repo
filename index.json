@@ -52,5 +52,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Huayomi: AsuraScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+    "apk": "huayomi-en.asurascans-v1.4.54.apk",
+    "lang": "en",
+    "code": 54,
+    "version": "1.4.54",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Asura Scans",
+        "lang": "en",
+        "id": "4357289345728934572",
+        "baseUrl": "https://asuracomic.net/",
+        "versionId": 1
+      }
+    ]
   }
 ]
