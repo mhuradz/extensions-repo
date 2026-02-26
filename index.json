@@ -71,19 +71,19 @@
       }
     ]
   },
-  {
-    "name": "Huayomi: Extencion",
-    "pkg": "huayomi.xtencion.en.toonitube",
+    {
+    "name": "Tachiyomi: TooniTube",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toonitube",
     "apk": "tachiyomi-en.toonitube-v1.4.20.apk",
     "lang": "en",
     "code": 20,
     "version": "1.4.20",
-    "nsfw": 0,
+    "nsfw": 1,
     "sources": [
       {
-        "name": "Extencion",
+        "name": "TooniTube",
         "lang": "en",
-        "id": "7000000000000000002",
+        "id": "8158721336644791464",
         "baseUrl": "https://toonitube.com",
         "versionId": 1
       }
