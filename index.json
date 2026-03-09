@@ -7,6 +7,7 @@
     "code": 17,
     "version": "1.4.17",
     "nsfw": 1,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.toonitube",
     "sources": [
       {
         "name": "MangaFire",
@@ -25,6 +26,7 @@
     "code": 47,
     "version": "1.4.47",
     "nsfw": 1,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.mangareadorg.png",
     "sources": [
       {
         "name": "MangaRead.org",
@@ -43,6 +45,7 @@
     "code": 1,
     "version": "1.4.2",
     "nsfw": 0,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.vortex.png",
     "sources": [
       {
         "name": "Vortex",
@@ -53,8 +56,7 @@
       }
     ]
   },
-
-    {
+  {
     "name": "Huayomi: VortexScan V2",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
     "apk": "tachiyomi-en.arvenscans-v1.4.52.apk",
@@ -62,6 +64,7 @@
     "code": 52,
     "version": "1.4.52",
     "nsfw": 0,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.arvenscans.png",
     "sources": [
       {
         "name": "Vortex",
@@ -80,6 +83,7 @@
     "code": 54,
     "version": "1.4.54",
     "nsfw": 0,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.asurascans.png",
     "sources": [
       {
         "name": "Asura Scans",
@@ -90,14 +94,15 @@
       }
     ]
   },
-    {
-    "name": "Huayomi: TooniTube (+)",
+  {
+    "name": "Huayomi: TooniTube (+18)",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonitube",
     "apk": "tachiyomi-en.toonitube-v1.4.20.apk",
     "lang": "en",
     "code": 20,
     "version": "1.4.20",
     "nsfw": 1,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.toonitube.png",
     "sources": [
       {
         "name": "TooniTube",
@@ -116,6 +121,7 @@
     "code": 20,
     "version": "1.4.20",
     "nsfw": 1,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.mangacute.png",
     "sources": [
       {
         "name": "MangaCute",
