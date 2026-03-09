@@ -131,5 +131,24 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Huayomi: MangaKatana",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangakatana",
+    "apk": "tachiyomi-en.mangakatana-v1.4.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.mangakatana.png",
+    "sources": [
+      {
+        "name": "MangaKatana",
+        "lang": "en",
+        "id": "3170561626848540385",
+        "baseUrl": "https://mangakatana.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
