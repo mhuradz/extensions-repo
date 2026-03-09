@@ -56,11 +56,11 @@
 
     {
     "name": "Huayomi: VortexScan V2",
-    "pkg": "eu.kanade.tachiyomi.extension.radzdev.vortex",
-    "apk": "tachiyomi-en.vortex-v1.4.2.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
+    "apk": "tachiyomi-en.arvenscans-v1.4.52.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.2",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
