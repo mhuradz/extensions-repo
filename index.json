@@ -53,6 +53,25 @@
       }
     ]
   },
+
+    {
+    "name": "Huayomi: VortexScan V2",
+    "pkg": "eu.kanade.tachiyomi.extension.radzdev.vortex",
+    "apk": "tachiyomi-en.vortex-v1.4.2.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Vortex",
+        "lang": "en",
+        "id": 1000000000000000002,
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
   {
     "name": "Huayomi: AsuraScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
@@ -72,7 +91,7 @@
     ]
   },
     {
-    "name": "Tachiyomi: TooniTube",
+    "name": "Huayomi: TooniTube (+)",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonitube",
     "apk": "tachiyomi-en.toonitube-v1.4.20.apk",
     "lang": "en",
@@ -90,7 +109,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaCute",
+    "name": "Huayomi: MangaCute (+18)",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacute",
     "apk": "tachiyomi-en.mangacute-v1.4.20.apk",
     "lang": "en",
