@@ -78,10 +78,10 @@
   {
     "name": "Huayomi: AsuraScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "huayomi-en.asurascans-v1.4.54.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.55.apk",
     "lang": "en",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "icon": "https://raw.githubusercontent.com/mhuradz/extensions-repo/refs/heads/main/icon/eu.kanade.tachiyomi.extension.en.asurascans.png",
     "sources": [
@@ -89,7 +89,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "4357289345728934572",
-        "baseUrl": "https://asuracomic.net/",
+        "baseUrl": "https://asurascans.com/",
         "versionId": 1
       }
     ]
